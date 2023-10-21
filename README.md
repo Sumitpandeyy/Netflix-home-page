@@ -1,2 +1,3 @@
 # Netflix-home-page
-This is a home page of netflix.
+This is the home page of Netflix.
+With use of HTML and style CSS
